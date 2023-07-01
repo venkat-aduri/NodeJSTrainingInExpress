@@ -1,0 +1,21 @@
+{
+  "name": "nodejstraininginexpress",
+  "version": "1.0.0",
+  "description": "nodejs initial training ",
+  "main": "server.js",
+  "scripts": {
+    "test": "node test",
+    "build": "npm install",
+    "run": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/venkat-aduri/NodeJSTrainingInExpress.git"
+  },
+  "author": "venkat aduri",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/venkat-aduri/NodeJSTrainingInExpress/issues"
+  },
+  "homepage": "https://github.com/venkat-aduri/NodeJSTrainingInExpress#readme"
+}
