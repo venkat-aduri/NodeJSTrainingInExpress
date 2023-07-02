@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/venkat-aduri/NodeJSTrainingInExpress/issues"
   },
-  "homepage": "https://github.com/venkat-aduri/NodeJSTrainingInExpress#readme"
+  "homepage": "https://github.com/venkat-aduri/NodeJSTrainingInExpress#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
 }
